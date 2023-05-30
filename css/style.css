@@ -1,0 +1,21 @@
+img{
+	width:45%;
+	height:200px;
+	position:absolute;
+	border-radius:50%;
+	top:100px;
+	left:110px;
+	
+	
+}
+.no1{
+	border:2px solid black;
+	height:400px;
+	width:400px;
+	position:absolute;
+	left:460px;
+	top:70px;
+	border-radius:50%;
+	box-shadow:15px 15px 15px black,15px 15px 15px yellow;
+	
+}
